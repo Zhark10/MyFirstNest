@@ -372,6 +372,11 @@
     object-hash "2.0.1"
     uuid "3.3.3"
 
+"@nestjs/mongoose@^6.1.2":
+  version "6.1.2"
+  resolved "https://registry.yarnpkg.com/@nestjs/mongoose/-/mongoose-6.1.2.tgz#fe1c227f5c1fd0f5c9be5c4e37b2897f744bc0b0"
+  integrity sha512-BkbkguvaPPGbL/41lK6P22DaQodBC9Yv9rUAmNlQVShChtwss7/cGj68AKC3jEoidrx75wCyDO3P8Tp6pggE4w==
+
 "@nestjs/platform-express@^6.8.0":
   version "6.10.9"
   resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-6.10.9.tgz#a0fb31e8b432b781ba12f7c4d17350bbd0cf2557"
